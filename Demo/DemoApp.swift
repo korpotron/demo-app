@@ -1,17 +1,14 @@
-//
-//  DemoApp.swift
-//  Demo
-//
-//  Created by Damian Rzeszot on 18/04/2024.
-//
-
 import SwiftUI
 
 @main
 struct DemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
+                .toolbelt(true)
+                .onOpenURL { url in
+                    // url to links
+                }
         }
     }
 }

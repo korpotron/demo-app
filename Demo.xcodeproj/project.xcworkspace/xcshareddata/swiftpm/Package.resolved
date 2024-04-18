@@ -1,0 +1,15 @@
+{
+  "originHash" : "7b2d9052581b9385fd83f9314f8776715a393f6590e4a023273820d311928725",
+  "pins" : [
+    {
+      "identity" : "toolbelt",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/korpotron/toolbelt",
+      "state" : {
+        "revision" : "f4a9facda8961a84347aa148edcf84fa3e16783b",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 3
+}
