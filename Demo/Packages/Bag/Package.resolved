@@ -1,0 +1,24 @@
+{
+  "originHash" : "daab57f644a5e83d4cf52f92dddcd631ca1f8edceb47eb51bd376f9ba3919985",
+  "pins" : [
+    {
+      "identity" : "route",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/korpotron/route",
+      "state" : {
+        "revision" : "052210f3b6b54310686e0f451a1ba98f1254c829",
+        "version" : "0.7.0"
+      }
+    },
+    {
+      "identity" : "toolbelt",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/korpotron/toolbelt",
+      "state" : {
+        "revision" : "bbe6fb2c00658c40eea4f4e7319fc86b8451d9f7",
+        "version" : "1.0.7"
+      }
+    }
+  ],
+  "version" : 3
+}
